@@ -1,0 +1,1 @@
+Commande pour executer l'app : streamlit run streamlite_app.py   
